@@ -7,7 +7,7 @@ The agent can handle general questions, perform web searches, and retrieve curre
 ---
 
 ## Live Demo
-![alt text](image.png) 
+![alt text](image.png)
 
 ![alt text](image-1.png)
 ---
