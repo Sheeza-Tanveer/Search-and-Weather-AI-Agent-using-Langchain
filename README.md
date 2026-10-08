@@ -4,9 +4,12 @@ An AI-powered conversational agent built with LangChain that can understand user
 
 The agent can handle general questions, perform web searches, and retrieve current weather information for different locations.
 
----
+
 
 ## Live Demo
+<img width="1103" height="689" alt="agent1" src="https://github.com/user-attachments/assets/73ad58d1-6678-4aaa-94db-33af73281467" />
+
+<img width="1365" height="690" alt="deployed" src="https://github.com/user-attachments/assets/1a6a8885-4a2a-4f1b-8af4-e40fcd8e5332" />
 
 ---
 
